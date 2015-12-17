@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/pref_tracking_settings_title"
+        android:key="pref_tracking_settings">
+        <ListPreference
+            android:defaultValue="@string/pref_poll_period_default_value"
+            android:entries="@array/pref_poll_period_list_titles"
+            android:entryValues="@array/pref_poll_period_list_values"
+            android:key="poll_period_minutes"
+            android:negativeButtonText="@null"
+            android:positiveButtonText="@null"
+            android:title="@string/pref_poll_period_title" />
+    </PreferenceCategory>
+</PreferenceScreen>

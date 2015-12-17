@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lib_name">Nudgy Timer Library</string>
+    <string name="database_name">store.db</string>
+
+    <!-- TODO(jmmv): Move to androidTest resources. -->
+    <string name="format_duration_seconds_singular">This is
+        _DURATION_ second</string>
+    <string name="format_duration_seconds_plural">These are
+        _DURATION_ seconds</string>
+    <string name="format_duration_minutes_singular">This is
+        _DURATION_ minute</string>
+    <string name="format_duration_minutes_plural">These are
+        _DURATION_ minutes</string>
+    <string name="format_duration_one_second">This is a second</string>
+    <string name="format_duration_one_minute">This is a minute</string>
+</resources>

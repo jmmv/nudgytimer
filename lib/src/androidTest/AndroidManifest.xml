@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.github.jmmv.nudgytimer.lib"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--suppress CheckTagEmptyBody -->
+    <application>
+        <!--suppress AndroidDomInspection / Android Studio bug #197111 -->
+        <activity android:name=".TestActivity"/>
+    </application>
+</manifest>

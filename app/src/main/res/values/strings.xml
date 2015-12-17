@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nudgy Timer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_block">Enter new event</string>
+    <string name="title_activity_history">History of events</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="last_activity_label">Last recorded activity</string>
+    <string name="top_activity_today_label">Top activity of today</string>
+    <string name="top_activity_all_label">Top activity of all times</string>
+
+    <string name="track_switch_label_singular">Poll for activity every
+    minute</string>
+    <string name="track_switch_label_plural">Poll for activity every
+    _DURATION_ minutes</string>
+
+    <string name="event_summary_na">N/A</string>
+    <string name="event_summary_seconds_singular">_DESCRIPTION_ for
+        _DURATION_ second</string>
+    <string name="event_summary_seconds_plural">_DESCRIPTION_ for
+        _DURATION_ seconds</string>
+    <string name="event_summary_minutes_singular">_DESCRIPTION_ for
+        _DURATION_ minute</string>
+    <string name="event_summary_minutes_plural">_DESCRIPTION_ for
+        _DURATION_ minutes</string>
+
+    <string name="total_seconds_singular">_DURATION_ second in total</string>
+    <string name="total_seconds_plural">_DURATION_ seconds in total</string>
+    <string name="total_minutes_singular">_DURATION_ minute in total</string>
+    <string name="total_minutes_plural">_DURATION_ minutes in total</string>
+
+    <string name="ask_activity_minutes_singular">What have you done in the
+    last minute?</string>
+    <string name="ask_activity_minutes_plural">What have you done in the
+    last _DURATION_ minutes?</string>
+
+    <string name="discard_event_entry">Discard</string>
+    <string name="save_event_entry">Save</string>
+
+    <string name="pref_tracking_settings_title">Automatic tracking</string>
+
+    <string name="pref_poll_period_title">Poll period</string>
+    <string-array name="pref_poll_period_list_titles">
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+    </string-array>
+    <string name="pref_poll_period_default_value">15</string>
+    <string-array name="pref_poll_period_list_values">
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+    </string-array>
+</resources>
