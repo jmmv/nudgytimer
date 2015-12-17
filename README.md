@@ -12,6 +12,8 @@ Nudgy Timer is released under the [Apache 2.0 license](LICENSE) and is
 brought to you by [Julio Merino](CONTRIBUTORS).  This is not an official
 Google product.
 
+<p align="center"><img src="screenshots/main.png" width="300px"></p>
+
 ## The theory
 
 Countless productivity courses begin with the following exercise:
